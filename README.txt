@@ -21,10 +21,10 @@ If you are pulling the code from git, then you should install
 the following packages first.
 
 On typical fresh Fedora install:
-    “sudo yum install git make PyQt4-devel python-feedparser.noarch sip-devel libqxt libqxt-devel”    
+    â€œsudo yum install git make PyQt4-devel python-feedparser.noarch sip-devel libqxt libqxt-develâ€�    
 
 On typical fresh Ubuntu install:
-    “sudo apt-get install build-essential qt4-qmake pyqt4-dev-tools libqt4-dev python-qt4 python-qt4-dev python-sip python-sip-dev python2.6-dev python-feedparser”
+    â€œsudo apt-get install build-essential qt4-qmake pyqt4-dev-tools libqt4-dev python-qt4 python-qt4-dev python-sip python-sip-dev python2.6-dev python-feedparserâ€�
 
 Distros with no libQxt:
     On some distros such as Ubuntu there is no libQxt package in the repositories. In this case libQxt can be installed manually as follows.
@@ -67,3 +67,4 @@ For support, questions, suggestions or any other inquiries, visit:
     http://wiki.github.com/fosslc/freeseer/
     
 --------------------------------------------------------------------------
+This is just a test for Eclipse/Egit
