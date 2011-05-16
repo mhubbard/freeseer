@@ -67,4 +67,3 @@ For support, questions, suggestions or any other inquiries, visit:
     http://wiki.github.com/fosslc/freeseer/
     
 --------------------------------------------------------------------------
-This is just a test for Eclipse/Egit.
